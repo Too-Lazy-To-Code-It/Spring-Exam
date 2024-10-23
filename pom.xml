@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>RafrafAdam</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>RafrafAdam</name>
 	<description>RafrafAdam</description>
 	<properties>
